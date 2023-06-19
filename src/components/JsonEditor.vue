@@ -1,3 +1,8 @@
+<!-- 
+  monaco编辑器
+  v-model：是编辑器的输入内容
+-->
+
 <template>
   <div class="editor" ref="dom"></div>
 </template>
